@@ -1,4 +1,4 @@
-#<p style="text-align: center">营改增专栏</p>
+# <p style="text-align: center">营改增专栏</p>
 
 　　自2016年5月1日起在全国范围内全面推开营业税改征增值税。
   
