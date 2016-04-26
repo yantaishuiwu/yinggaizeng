@@ -6,4 +6,5 @@
 * [财政部税政司、国家税务总局货物劳务税司负责人就全面推开营改增试点答记者问](cai_zheng_bu_shui_zheng_si_3001_guo_jia_shui_wu_zo.md)
 * [航信税控开票操作手册](hang_xin_shui_kong_kai_piao_cao_zuo_shou_ce.md)
 * [营改增的相关文件和政策解读](policy/README.md)
- * [国家税务总局26日新发26号公告规范营改增若干问题][policy/zong_ju_gong_gao_2016_26.md]
+   * [[国家税务总局26日新发26号公告规范营改增若干问题][policy/zong_ju_gong_gao_2016_26.md]](policy/guo_jia_shui_wu_zong_ju_26_ri_xin_fa_26_hao_gong_g.md)
+
