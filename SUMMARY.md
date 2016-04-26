@@ -9,5 +9,5 @@
    * [国家税务总局26日新发26号公告规范营改增若干问题](policy/zongju_gong_gao_2016_26_md.md)
 * [操作指南](manual/README.md)
    * [航信税控开票操作手册](manual/hang_xin_shui_kong_kai_piao_cao_zuo_shou_ce.md)
-   * [百旺税控发票开票软件](manual/baiwang.md)
+   * [百旺税控发票开票软件](manual/baiwangmd.md)
 
