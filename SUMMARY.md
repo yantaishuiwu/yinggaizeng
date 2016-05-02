@@ -12,4 +12,5 @@
    * [百旺税控发票开票软件](manual/baiwang.md)
 * [政策解读](interpret/README.md)
    * [营改增思维导图](interpret/ying_gai_zeng_si_wei_dao_tu.md)
+   * 营改增试点，发票使用牢记这10点
 
