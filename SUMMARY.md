@@ -21,4 +21,5 @@
    * [一张图读懂“营改增”](interpret/yi_zhang_tu_du_dong_201c_ying_gai_zeng_201d.md)
    * [5月1日起这些应税行为营改增](interpret/5yue_1_ri_qi_zhe_xie_ying_shui_xing_wei_ying_gai_z.md)
    * [哪些行业已经“营改增”了](interpret/na_xie_xing_ye_yi_jing_201c_ying_gai_zeng_201d_le.md)
+   * 营改增后，增值税抵扣凭证有哪些？
 
