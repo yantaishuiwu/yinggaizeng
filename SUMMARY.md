@@ -8,6 +8,7 @@
 * [营改增的相关文件和政策](policy/README.md)
    * [国家税务总局26日新发26号公告规范营改增若干问题](policy/zongju_gong_gao_2016_26_md.md)
    * [关于进一步明确全面推开营改增试点有关劳务派遣服务、收费公路通行费抵扣等政策的通知](policy/guan_yu_jin_yi_bu_ming_que_quan_mian_tui_kai_ying_.md)
+   * 关于印发全面推开营改增试点后调整中央与地方增值税收入划分过渡方案的通知
 * [操作指南](manual/README.md)
    * [航信税控开票操作手册](manual/hang_xin_shui_kong_kai_piao_cao_zuo_shou_ce.md)
    * [百旺税控发票开票软件](manual/baiwang.md)
