@@ -6,6 +6,7 @@
    * [致全国营改增纳税人的一封信](news/zhi_quan_guo_ying_gai_zeng_na_shui_ren_de_yi_feng_.md)
    * [财政部税政司、国家税务总局货物劳务税司负责人就全面推开营改增试点答记者问](news/cai_zheng_bu_shui_zheng_si_3001_guo_jia_shui_wu_zo.md)
 * [营改增的相关文件和政策](policy/README.md)
+   * [关于纳税人销售其取得的不动产办理产权过户手续使用的增值税发票联次问题的通知](policy/xiao_shou_bu_dong_chan.md)
    * [国家税务总局26日新发26号公告规范营改增若干问题](policy/zongju_gong_gao_2016_26_md.md)
    * [关于进一步明确全面推开营改增试点有关劳务派遣服务、收费公路通行费抵扣等政策的通知](policy/guan_yu_jin_yi_bu_ming_que_quan_mian_tui_kai_ying_.md)
    * [关于印发全面推开营改增试点后调整中央与地方增值税收入划分过渡方案的通知](policy/guan_yu_yin_fa_quan_mian_tui_kai_ying_gai_zeng_shi.md)
