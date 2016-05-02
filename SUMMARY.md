@@ -14,5 +14,5 @@
    * [营改增思维导图](interpret/ying_gai_zeng_si_wei_dao_tu.md)
    * [营改增试点，发票使用牢记这10点](interpret/ying_gai_zeng_shi_dian_ff0c_fa_piao_shi_yong_lao_j.md)
    * [营改增试点增值税的“征收率”是多少](interpret/ying_gai_zeng_shi_dian_zeng_zhi_shui_de_201c_zheng.md)
-   * 营改增试点增值税税率分几档
+   * [营改增试点增值税税率分几档](interpret/ying_gai_zeng_shi_dian_zeng_zhi_shui_shui_lv_fen_j.md)
 
