@@ -1,8 +1,8 @@
 # 关于纳税人销售其取得的不动产办理产权过户手续使用的增值税发票联次问题的通知
 
 
-<li  style="text-align:center">国家税务总局</li>
-    <li class="sv_texth1_red" style="text-align:center">关于纳税人销售其取得的不动产办理产权过户手续使用的增值税发票联次问题的通知</li>
+### <li  style="text-align:center">国家税务总局</li>
+##<li class="sv_texth1_red" style="text-align:center">关于纳税人销售其取得的不动产办理产权过户手续使用的增值税发票联次问题的通知</li>
         <li class="sv_black14_30" style="text-align:center">税总函〔2016〕190号</li>
                            <li class="sv_texth2" style="text-align:center;"><span style="color:#000000;">【字体：<a href="#" onclick="tax_content.style.fontSize='16px';Javascript:return false;">大</a> <span style="color:#06C"><a href="#" onclick="tax_content.style.fontSize='14px';Javascript:return false;">中</a></span> <a href="#" onclick="tax_content.style.fontSize='12px';Javascript:return false;">小</a>】</span>  <a href="javascript:window.print()">打印本页</a>   
 
