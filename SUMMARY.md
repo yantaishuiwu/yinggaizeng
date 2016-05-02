@@ -18,4 +18,5 @@
    * [身边这些生活服务要营改增啦](interpret/shen_bian_zhe_xie_sheng_huo_fu_wu_yao_ying_gai_zen.md)
    * [总理力推的“营改增”是什么？对老百姓有何利好？](interpret/zong_li_li_tui_de_201c_ying_gai_zeng_201d_shi_shi_.md)
    * [营改增过渡期40个项目免征增值税](interpret/ying_gai_zeng_guo_du_qi_40_ge_xiang_mu_mian_zheng_.md)
+   * 一张图读懂“营改增”
 
