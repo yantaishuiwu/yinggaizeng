@@ -11,7 +11,7 @@
    * [关于印发全面推开营改增试点后调整中央与地方增值税收入划分过渡方案的通知](policy/guan_yu_yin_fa_quan_mian_tui_kai_ying_gai_zeng_shi.md)
    * [关于进一步明确全面推开营改增试点金融业有关政策的通知](policy/jinrongye_.md)
    * [关于明确营改增试点若干征管问题的公告](policy/guan_yu_ming_que_ying_gai_zeng_shi_dian_ruo_gan_zh.md)
-   * 关于纳税人销售其取得的不动产办理产权过户手续使用的增值税发票联次问题的通知
+   * [关于纳税人销售其取得的不动产办理产权过户手续使用的增值税发票联次问题的通知](policy/xiao_shou_bu_dong_chan.md)
 * [操作指南](manual/README.md)
    * [航信税控开票操作手册](manual/hang_xin_shui_kong_kai_piao_cao_zuo_shou_ce.md)
    * [百旺税控发票开票软件](manual/baiwang.md)
