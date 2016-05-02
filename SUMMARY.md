@@ -17,4 +17,5 @@
    * [营改增试点增值税税率分几档](interpret/ying_gai_zeng_shi_dian_zeng_zhi_shui_shui_lv_fen_j.md)
    * [身边这些生活服务要营改增啦](interpret/shen_bian_zhe_xie_sheng_huo_fu_wu_yao_ying_gai_zen.md)
    * [总理力推的“营改增”是什么？对老百姓有何利好？](interpret/zong_li_li_tui_de_201c_ying_gai_zeng_201d_shi_shi_.md)
+   * 营改增过渡期40个项目免征增值税
 
